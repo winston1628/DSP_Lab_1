@@ -10,7 +10,7 @@
 * Due: 10/30 at 8am
 * Required files: results/index.md, and code/
 
-##Overview
+## Overview
 
 <p>The goal of this assignment is to write an image filtering function and use it to create <a href="http://cvcl.mit.edu/hybridimage.htm">hybrid images</a> using a simplified version of the SIGGRAPH 2006 <a href="http://cvcl.mit.edu/publications/OlivaTorralb_Hybrid_Siggraph06.pdf">paper</a> by Oliva, Torralba, and Schyns.
 <i>Hybrid images</i> are static images that change in interpretation as a function of the viewing distance.
@@ -19,7 +19,7 @@ By blending the high frequency portion of one image with the low-frequency porti
 </p>
 <br>
 
-##Details
+## Details
 
 <p>
 This project is intended to familiarize you with MATLAB and image filtering. Once you have created an image filtering function, it is relatively straightforward to construct hybrid images. If you don't already know MATLAB, you will find this <a href="http://cs.brown.edu/courses/csci1430/docs/matlab-tutorial/">tutorial on MATLAB</a> helpful.
